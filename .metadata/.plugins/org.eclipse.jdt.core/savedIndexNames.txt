@@ -1,0 +1,10 @@
+INDEX VERSION 1.132+C:\Users\beatr\Documents\ESTUDOS\JAVA\JUnit\.metadata\.plugins\org.eclipse.jdt.core
+635242318.index
+1685712215.index
+1585930460.index
+2156967636.index
+3333364139.index
+239599983.index
+2736717746.index
+2372598441.index
+1865797976.index
